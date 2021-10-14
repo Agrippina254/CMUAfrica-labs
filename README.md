@@ -3,5 +3,4 @@
 <p>
   This website will hold all the resources available in the lab such as laboratory inventory, current projects, members of the laboratory, and the relevant lab/instruction manuals. This is in collaboration with Faculty in the College of Engineering and the facilities management team at Carnegie Mellon University Africa.
 </p>
-Access the main website here
-[CMU-Africa-Labs](https://agrippina254.github.io/CMUAfrica-labs/)
+Access the main website here: [CMUAfricaLabs](https://agrippina254.github.io/CMUAfrica-labs/)
