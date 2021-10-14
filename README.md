@@ -1,5 +1,5 @@
 # Carnegie Mellon University Africa-labs
-### `This is a repository that shows the laboratory procedures for all laboratories in Carnegie Mellon University Africa` 
+### This is a repository that shows the laboratory procedures for all laboratories in Carnegie Mellon University Africa 
 
 This website will hold all the resources available in the lab such as
   - Laboratory inventory
