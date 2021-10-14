@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Equipment Maintenance
 tags: equipment maintenance depreciation health check
 categories: Lab Equipment
