@@ -3,7 +3,7 @@ layout: page
 title: Robotics&AI lab
 ---
 
-![alt text: Research CMU Africa](https://pbs.twimg.com/profile_images/1057370550216089601/TRdaRncO.jpg)
+#### Robotics & Artificial Intelligence Lab
 
 ----------------------------------------
 
