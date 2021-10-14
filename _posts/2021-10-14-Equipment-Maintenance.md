@@ -20,8 +20,10 @@ To perform equipment maintenance:
 > the condition of the devices periodically and to ensure
 > that the equipment in the lab is ready for use by students
 > and faculty. 
+----------------------------------
 
 The table below shows a list of all the equipment that is obsolete and that needs to be updated:
+
 | header | column 1 | column 2 | 
 | ... | ... | ... |
 |Arduino board | 4 | 6 |
