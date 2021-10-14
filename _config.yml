@@ -1,0 +1,9 @@
+# Site settings
+title: CMU Africa Research labs
+author: 
+  name: Agrippina Mwangi
+  email: amwangi@andrew.cmu.edu
+description: "CMU Africa research labs"
+  
+# Build settings
+remote_theme: jekyll/minima
