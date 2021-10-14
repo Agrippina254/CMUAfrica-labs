@@ -25,7 +25,7 @@ To perform equipment maintenance:
 The table below shows a list of all the equipment that is obsolete and that needs to be updated:
 
 | header | column 1 | column 2 | 
-| ... | ... | ... |
+| --- | --- | --- |
 |Arduino board | 4 | 6 |
 |Raspberry pi | 34 | 21 |
 
